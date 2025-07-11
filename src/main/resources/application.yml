@@ -1,0 +1,10 @@
+server:
+  port: 8083
+
+qianwen:
+  api-key: sk-e2d9968732974f8abb0c14efe2661caf  # API密钥
+
+logging:
+  level:
+    root: INFO
+    com.resumeai: DEBUG  # 开启调试日志
